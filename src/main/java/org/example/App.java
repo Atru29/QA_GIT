@@ -9,13 +9,7 @@ import org.example.models.Varon;
 public class App 
 {
     public static void main( String[] args ) {
-        System.out.println("Hello World!");
+System.out.println("Cambios 01 en la rama Dev");
 
-        //Persona maria;
-        //maria = new Persona("Maria Robles");
-        Varon jack = new Varon();
-
-       System.out.println("Modificadores 03");
-        System.out.println("Modificacion 02");
     }
 }
